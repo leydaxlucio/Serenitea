@@ -1148,6 +1148,8 @@ ul li {
   height: 100px;
 }
 .submit {
+  text-decoration: none;
+  text-align: center;
   width: 150px;
   font-family: "Cormorant Upright";
   font-size: 30px;
